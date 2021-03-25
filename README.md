@@ -4,10 +4,13 @@
 ```
 Adapter
 ```
+```
 Iterator
+```
 ```
 Proxy
 ```
 
+```
 Ec utbildning
 ```
