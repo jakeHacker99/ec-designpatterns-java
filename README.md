@@ -1,1 +1,5 @@
-"# ec-designpatterns-java" 
+"# Design pattern exercise" 
+"# Ec-utbilning"
+"# Adapter"
+"# Iterator"
+"# Proxy"
